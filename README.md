@@ -17,5 +17,5 @@ It serves as a collection of classic sorting algorithms and custom techniques, s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/java-array-sorting-practice.git
+   git clone https://github.com/Chethya09/java-array-sorting.git
    cd java-array-sorting-practice
