@@ -1,3 +1,6 @@
+//  sorted using the single pointer by checking the number of zeros (0) present in the array 
+
+
 public class ArrayPractise {
 
     public static void main(String[] args) {
